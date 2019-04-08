@@ -12,6 +12,8 @@ A reactjs app that manages (CRUD) address book for a user.
 ## Required features
  - Simple CRUD operations for address book
  - Authentication system.
+ - User can upload a display picture for each contact.
+ - Display picture should be resized to 200 * 200.
 
 ## Output
  - A GitHub repository link for the project.
