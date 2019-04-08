@@ -21,7 +21,7 @@ A reactjs app that manages (CRUD) address book for a user.
  - A link of deployed code on netlify.com
  
 ## Questions
-Additionally, please anser follwoing questions:
+Additionally, please answer following questions:
 - What is the suggested AWS architecture to deploy this app? (use a diagram to illustrate your idea: https://aws.amazon.com/architecture/icons/).
 - What are the bottlenecks in suggested architecture if the app serving more than 50 million requests per day?
 
