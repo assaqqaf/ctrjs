@@ -8,6 +8,7 @@ A reactjs app that manages (CRUD) address book for a user.
   3. Redux
   4. React Router
   5. Firebase (backend).
+  6. Node.js
 
 ## Required features
  - Simple CRUD operations for address book
