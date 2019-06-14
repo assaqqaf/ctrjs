@@ -4,11 +4,10 @@ A reactjs app that manages (CRUD) address book for a user.
 
 ## Technologis to be used
   1. Javascript (ES6)
-  2. React
+  2. React-Native (without exo)
   3. Redux
-  4. React Router
+  4. react-native-router-flux
   5. Firebase (backend).
-  6. Node.js
 
 ## Required features
  - Simple CRUD operations for address book
@@ -18,12 +17,11 @@ A reactjs app that manages (CRUD) address book for a user.
 
 ## Output
  - A GitHub repository link for the project.
- - A link of deployed code on netlify.com
  
 ## Questions
 Additionally, please answer following questions:
-- What is the suggested AWS architecture to deploy this app? (use a diagram to illustrate your idea: https://aws.amazon.com/architecture/icons/).
-- What are the bottlenecks in suggested architecture if the app serving more than 50 million requests per day?
+- What is the best way to build a list contain has > 1000 images?
+
 
 ## Evaluation
 Evaluation will be based on those criteria:
